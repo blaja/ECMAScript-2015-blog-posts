@@ -27,3 +27,7 @@ https://medium.com/ecmascript-2015/let-const-35bca3b4a3c6
 http://tc39wiki.calculist.org/es6/block-scoping/
 
 http://erik.eae.net/archives/2011/12/30/00.00.27/
+
+http://wiki.ecmascript.org/doku.php?id=harmony:block_scoped_bindings
+
+http://wiki.ecmascript.org/doku.php?id=harmony:let
