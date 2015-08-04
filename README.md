@@ -18,6 +18,8 @@ http://generatedcontent.org/post/54444832868/variables-and-constants-in-es6
 
 https://strongloop.com/strongblog/es6-variable-declarations/
 
+http://www.sitepoint.com/preparing-ecmascript-6-let-const/
+
 http://jsrocks.org/2014/08/what-you-need-to-know-about-block-scope-let/
 
 http://dev.venntro.com/2013/09/es6-part-2/
