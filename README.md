@@ -44,4 +44,6 @@ https://plus.google.com/+AddyOsmani/posts/D5aakRJV1F5
 
 https://esdiscuss.org/topic/performance-concern-with-let-const
 
+https://ada.is/blog/2015/07/13/immutable/
+
 https://twitter.com/raganwald/status/564792624934961152
