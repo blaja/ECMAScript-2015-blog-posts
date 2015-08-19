@@ -5,6 +5,7 @@
 ####Scoping
 
 <sub>http://www.2ality.com/2015/02/es6-scoping.html</sub>*
+<sub>http://wiki.ecmascript.org/doku.php?id=harmony:block_scoped_bindings</sub>*
 <sub>https://hacks.mozilla.org/2015/07/es6-in-depth-let-and-const/</sub>*
 <sub>http://davidwalsh.name/for-and-against-let</sub>*
 <sub>http://raganwald.com/2015/05/30/de-stijl.html</sub>*
