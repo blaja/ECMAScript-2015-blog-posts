@@ -26,3 +26,7 @@
 <sub><sup>https://esdiscuss.org/topic/performance-concern-with-let-const</sub></sup>*
 <sub><sup>https://ada.is/blog/2015/07/13/immutable/</sub></sup>*
 <sub><sup>https://twitter.com/raganwald/status/564792624934961152</sub></sup>*
+<sub><sup>https://esdiscuss.org/topic/a-bit-confused-by-b-3-2-web-legacy-compatibility-for-block-level-function-declarations</sub></sup>*
+<sub><sup>https://esdiscuss.org/topic/in-es6-strict-mode-do-function-declarations-within-a-block-hoist</sub></sup>*
+<sub><sup>http://stackoverflow.com/questions/31419897/what-are-the-precise-semantics-of-block-level-functions-in-es6</sub></sup>*
+<sub><sup>https://esdiscuss.org/topic/should-const-be-favored-over-let</sub></sup>*
