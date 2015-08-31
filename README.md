@@ -29,5 +29,14 @@
 <sub>https://twitter.com/raganwald/status/564792624934961152</sub>*
 <sub>https://esdiscuss.org/topic/a-bit-confused-by-b-3-2-web-legacy-compatibility-for-block-level-function-declarations</sub>*
 <sub>https://esdiscuss.org/topic/in-es6-strict-mode-do-function-declarations-within-a-block-hoist</sub>*
-<sub>http://stackoverflow.com/questions/31419897/what-are-the-precise-semantics-of-block-level-functions-in-es6</sub>*
-<sub>https://esdiscuss.org/topic/should-const-be-favored-over-let</sub>*
+<sub>http://stackoverflow.com/questions/31419897/what-are-the-precise-semantics-of-block-level-functions-in-es6</sub>*<sub>https://esdiscuss.org/topic/should-const-be-favored-over-let</sub>*
+
+####Default Parameters
+<sub>https://esdiscuss.org/topic/function-length-and-default-parameters</sub>*
+<sub>http://tc39wiki.calculist.org/es6/default-parameter-values/</sub>*
+<sub>https://buzzdecafe.github.io/code/2015/01/08/is-javascript-getting-worse</sub>*
+<sub>http://dmitrysoshnikov.com/ecmascript/es6-notes-default-values-of-parameters/</sub>*
+<sub>https://leanpub.com/understandinges6/read/#leanpub-auto-default-parameters</sub>*
+<sub>https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Default_parameters</sub>*
+<sub>http://ariya.ofilabs.com/2013/02/es6-and-default-argument.html</sub>*
+<sub>http://odetocode.com/blogs/scott/archive/2014/08/13/features-of-es6-part-3-default-parameter-values.aspx</sub>*
