@@ -30,6 +30,7 @@
 <sub>https://esdiscuss.org/topic/a-bit-confused-by-b-3-2-web-legacy-compatibility-for-block-level-function-declarations</sub>*
 <sub>https://esdiscuss.org/topic/in-es6-strict-mode-do-function-declarations-within-a-block-hoist</sub>*
 <sub>http://stackoverflow.com/questions/31419897/what-are-the-precise-semantics-of-block-level-functions-in-es6</sub>*<sub>https://esdiscuss.org/topic/should-const-be-favored-over-let</sub>*
+<sub>http://stackoverflow.com/questions/31419897/what-are-the-precise-semantics-of-block-level-functions-in-es6</sub>*<sub>https://medium.com/@PinakinMistry/let-there-be-let-in-javascript-6fd184f46f80</sub>*
 
 ####Default Parameters
 <sub>https://esdiscuss.org/topic/function-length-and-default-parameters</sub>*
